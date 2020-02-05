@@ -4,7 +4,7 @@
 
 <head>
 <title> PAC MAN</title>
-</head>
+
 <style>
 
 
@@ -15,7 +15,14 @@ h2  { color:yellow;
 		h1 { 
 	color:yellow;
 	font-size:100pt;
-	text-align: center;}
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	padding: 30px;
+	width: 560px;
+	
+	border: 10px dotted blue;}
 
 		body {
 		
@@ -41,6 +48,8 @@ h2  { color:yellow;
 
 
 </style>
+</head>
+
 <body>
 <div>
 <h1> PACMAN</h1>
